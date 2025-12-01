@@ -28,7 +28,7 @@ Automated workflow for medical image segmentation using nnUNet framework with AI
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/automation-bot.git
+git clone https://github.com/Aytan0/nnunetv2-openai-image-workflow.git
 cd automation-bot
 ```
 
